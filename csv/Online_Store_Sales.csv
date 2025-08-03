@@ -1,0 +1,301 @@
+Date,CustomerID,Product,Category,Price,Quantity,Revenue,PaymentMethod,Country
+2023-01-01 00:00:00.000000000,e3e70682-c209-4cac-a29f-6fbed82c07cd,Charger,Accessories,397.54,4,1590.16,Credit Card,Germany
+2023-01-02 05:13:02.608695652,f728b4fa-4248-4e3a-8a5d-2f346baa9455,Monitor,Electronics,496.21,3,1488.63,Cash,Germany
+2023-01-03 10:26:05.217391304,eb1167b3-67a9-4378-bc65-c1e582e2e662,Monitor,Electronics,893.83,2,1787.66,PayPal,Germany
+2023-01-04 15:39:07.826086956,f7c1bd87-4da5-4709-9471-3d60c8a70639,Laptop,Electronics,760.69,5,3803.45,Bank Transfer,Canada
+2023-01-05 20:52:10.434782608,e443df78-9558-467f-9ba9-1faf7a024204,Mouse,Accessories,814.01,2,1628.02,Bank Transfer,USA
+2023-01-07 02:05:13.043478260,23a7711a-8133-4876-b7eb-dcd9e87a1613,Mouse,Accessories,92.27,3,276.81,Cash,Canada
+2023-01-08 07:18:15.652173913,1846d424-c17c-4279-a3c6-612f48268673,Smartphone,Electronics,366.72,3,1100.16,PayPal,Canada
+2023-01-09 12:31:18.260869565,fcbd04c3-4021-4ef7-8ca5-a5a19e4d6e3c,Keyboard,Accessories,453.84,5,2269.2,Bank Transfer,USA
+2023-01-10 17:44:20.869565217,b4862b21-fb97-4435-8856-1712e8e5216a,Charger,Accessories,920.1,1,920.1,Credit Card,Australia
+2023-01-11 22:57:23.478260869,259f4329-e6f4-490b-9a16-4106cf6a659e,Charger,Accessories,410.85,1,410.85,Cash,Germany
+2023-01-13 04:10:26.086956521,12e0c8b2-bad6-40fb-9948-8dec4f65d4d9,Laptop,Electronics,735.67,1,735.67,PayPal,Canada
+2023-01-14 09:23:28.695652174,5487ce1e-af19-422a-99b8-a714e61a441c,Laptop,Electronics,253.84,2,507.68,Cash,USA
+2023-01-15 14:36:31.304347826,5a921187-19c7-4df4-8f4f-f31e78de5857,Smartphone,Electronics,993.36,5,4966.8,Cash,USA
+2023-01-16 19:49:33.913043478,a3f2c9bf-9c63-46b9-90f2-44556f25e2a2,Headphones,Accessories,560.24,1,560.24,Bank Transfer,Canada
+2023-01-18 01:02:36.521739130,8d723104-f773-43c1-b458-a748e9bb17bc,Laptop,Electronics,964.56,5,4822.8,Bank Transfer,France
+2023-01-19 06:15:39.130434782,85776e9a-dd84-439e-b154-5a137a1d5006,Smartphone,Electronics,604.36,4,2417.44,Bank Transfer,Canada
+2023-01-20 11:28:41.739130434,eb2083e6-ce16-4dba-8ff1-8e0242af9fc3,Laptop,Electronics,304.52,2,609.04,PayPal,USA
+2023-01-21 16:41:44.347826087,17e0aa3c-0398-4ca8-aa7e-9d498c778ea6,Monitor,Electronics,981.67,3,2945.01,Cash,USA
+2023-01-22 21:54:46.956521739,b5d32b16-6619-4cb1-9710-37d1b83e90ec,Smartphone,Electronics,685.15,2,1370.3,PayPal,USA
+2023-01-24 03:07:49.565217391,a0116be5-ab0c-4681-88f8-e3d0d3290a4c,Charger,Accessories,98.64,5,493.2,Cash,Australia
+2023-01-25 08:20:52.173913043,d3fbf47a-7e5b-4e7f-9ca5-499d004ae545,Monitor,Electronics,290.12,2,580.24,PayPal,Australia
+2023-01-26 13:33:54.782608695,baf3897a-3e70-416a-9548-5822de1b372a,Monitor,Electronics,828.76,4,3315.04,Bank Transfer,France
+2023-01-27 18:46:57.391304348,101fbccc-ded7-43e8-b421-eaeb534097ca,Keyboard,Accessories,667.04,3,2001.12,Credit Card,Germany
+2023-01-29 00:00:00.000000000,38c1962e-9148-424f-aac1-c14f30e9c5cc,Monitor,Electronics,133.04,5,665.2,Bank Transfer,UK
+2023-01-30 05:13:02.608695652,247a8333-f7b0-47d2-8da8-056c3d15eef7,Laptop,Electronics,35.88,3,107.64,Credit Card,Australia
+2023-01-31 10:26:05.217391304,1759edc3-72ae-4244-8b01-63c1cd9d2b7d,Laptop,Electronics,384.62,2,769.24,Bank Transfer,France
+2023-02-01 15:39:07.826086956,e005b860-51ef-4922-be43-c49e149818d1,Charger,Accessories,80.95,2,161.9,PayPal,USA
+2023-02-02 20:52:10.434782608,7d41e602-eece-428b-bf7b-118e820865d6,Charger,Accessories,582.39,5,2911.95,Credit Card,USA
+2023-02-04 02:05:13.043478261,4a84eb03-8d1f-49b7-8d2b-9deb1beb3711,Smartphone,Electronics,642.3,5,3211.5,Credit Card,France
+2023-02-05 07:18:15.652173913,552f233a-8c25-466a-9ff3-9849b4e1357d,Smartphone,Electronics,382.74,1,382.74,Credit Card,Canada
+2023-02-06 12:31:18.260869565,3405095c-8a50-46c1-ac18-8efbd080e66e,Smartphone,Electronics,210.7,2,421.4,Credit Card,France
+2023-02-07 17:44:20.869565217,8c1745a7-9a6a-4f92-8ca7-4147f6be1f72,Laptop,Electronics,732.61,1,732.61,Credit Card,Canada
+2023-02-08 22:57:23.478260869,1775336d-71ea-4d05-89a3-e80e966e1277,Keyboard,Accessories,628.19,3,1884.57,Credit Card,UK
+2023-02-10 04:10:26.086956521,5129fb7c-6288-41a5-8c45-782198a6416d,Smartphone,Electronics,653.99,3,1961.97,Cash,UK
+2023-02-11 09:23:28.695652174,2f120554-4a53-48cc-bdfa-bc08935ddd72,Smartphone,Electronics,513.56,1,513.56,Credit Card,Australia
+2023-02-12 14:36:31.304347826,0870e15c-2fcd-41b5-924b-ace4307bf326,Keyboard,Accessories,215.37,3,646.11,Cash,Canada
+2023-02-13 19:49:33.913043478,42930b33-a81a-4477-bb36-75b89cdeb3e6,Laptop,Electronics,703.74,2,1407.48,Credit Card,Australia
+2023-02-15 01:02:36.521739130,adc0da7a-16fe-4aa0-91af-923d79fdef7c,Laptop,Electronics,848.52,3,2545.56,Bank Transfer,USA
+2023-02-16 06:15:39.130434782,2648ee38-e074-45eb-a156-63abc1f254b8,Monitor,Electronics,922.99,2,1845.98,Credit Card,France
+2023-02-17 11:28:41.739130434,148b2758-d7ab-4928-89e4-69e6ec62b2c8,Mouse,Accessories,421.71,5,2108.55,Bank Transfer,Australia
+2023-02-18 16:41:44.347826087,d450fe4a-ec4f-417b-b306-d1a8e5eeac76,Headphones,Accessories,400.87,3,1202.61,PayPal,Canada
+2023-02-19 21:54:46.956521739,d67e55fd-642b-4a42-aef9-c00b8a64c1b9,Mouse,Accessories,32.19,1,32.19,Bank Transfer,Australia
+2023-02-21 03:07:49.565217391,85940927-468f-453d-864a-7a50b48d73f1,Smartphone,Electronics,553.43,2,1106.86,PayPal,France
+2023-02-22 08:20:52.173913043,37176e84-d977-4993-bc49-d76fcfc6e625,Headphones,Accessories,617.93,3,1853.79,PayPal,Australia
+2023-02-23 13:33:54.782608696,d3447490-96fd-45d0-adf2-0806e5214606,Headphones,Accessories,400.26,4,1601.04,Credit Card,USA
+2023-02-24 18:46:57.391304348,46743741-9466-4472-ab5f-5241f323ca74,Monitor,Electronics,208.46,3,625.38,PayPal,UK
+2023-02-26 00:00:00.000000000,a425799a-a905-4750-be1e-a9c573581a81,Laptop,Electronics,644.65,4,2578.6,Cash,USA
+2023-02-27 05:13:02.608695652,fb82860d-eabc-48d0-b341-facdff0ac0f1,Keyboard,Accessories,874.25,5,4371.25,Cash,Australia
+2023-02-28 10:26:05.217391304,5306f3f5-1516-4570-9b7c-709acb175a5a,Mouse,Accessories,65.84,4,263.36,Credit Card,Germany
+2023-03-01 15:39:07.826086956,964a870c-7c87-4b74-9d87-8f9f9cdf5a86,Mouse,Accessories,174.53,5,872.65,Cash,Canada
+2023-03-02 20:52:10.434782609,30bcab0e-d857-4102-95d4-4936a1515607,Monitor,Electronics,760.38,1,760.38,Cash,Germany
+2023-03-04 02:05:13.043478261,4562be7f-bb42-40b2-8426-465e3e37952d,Headphones,Accessories,840.98,1,840.98,Cash,UK
+2023-03-05 07:18:15.652173913,5f3f5638-3870-4a14-b490-b6081dfc8352,Monitor,Electronics,999.43,1,999.43,PayPal,USA
+2023-03-06 12:31:18.260869565,6d16ee18-5521-46dd-aba4-b180cb69ca38,Keyboard,Accessories,950.56,4,3802.24,Bank Transfer,USA
+2023-03-07 17:44:20.869565217,c87a7463-19c1-4a0d-8feb-d845d0dfae43,Laptop,Electronics,34.01,1,34.01,Credit Card,UK
+2023-03-08 22:57:23.478260869,38018b47-b29a-4b06-9af6-6c5f2577bffa,Smartphone,Electronics,616.19,2,1232.38,Bank Transfer,Germany
+2023-03-10 04:10:26.086956522,a25b59fd-92e8-4269-912e-cbc40b9475b1,Mouse,Accessories,978.94,1,978.94,Cash,France
+2023-03-11 09:23:28.695652174,9a27d858-88c1-42ad-afbf-c19ee8f6cf32,Mouse,Accessories,99.72,3,299.16,Cash,USA
+2023-03-12 14:36:31.304347826,1fdb8b32-06d5-49e8-92f1-75ffae3b16ec,Charger,Accessories,271.36,5,1356.8,Bank Transfer,USA
+2023-03-13 19:49:33.913043478,d480865f-9b38-4e80-b042-e325a28f5ab0,Charger,Accessories,171.35,1,171.35,Credit Card,USA
+2023-03-15 01:02:36.521739130,176ea1b1-6426-4cd5-9ea4-5cd69371a71f,Laptop,Electronics,687.38,5,3436.9,Bank Transfer,Germany
+2023-03-16 06:15:39.130434782,1db53334-fb03-43a1-9576-d4155ec17dbe,Monitor,Electronics,911.65,1,911.65,Cash,Australia
+2023-03-17 11:28:41.739130435,31d0b664-0589-4877-9b02-52440950fd13,Mouse,Accessories,904.66,4,3618.64,Bank Transfer,Canada
+2023-03-18 16:41:44.347826087,b7d6467b-2f5a-422a-b87f-43fdf6062541,Laptop,Electronics,223.69,5,1118.45,Bank Transfer,USA
+2023-03-19 21:54:46.956521739,ba26d851-35e8-479a-baaf-0e891fb797fa,Laptop,Electronics,168.0,3,504.0,Bank Transfer,Germany
+2023-03-21 03:07:49.565217391,ade9b2b4-efdd-45f8-8fa3-4266ccfdba9b,Mouse,Accessories,111.83,5,559.15,Credit Card,USA
+2023-03-22 08:20:52.173913043,9edfa3da-6cf5-4b15-8b53-031d05d51433,Headphones,Accessories,180.58,5,902.9,Bank Transfer,Germany
+2023-03-23 13:33:54.782608696,11ebcd49-428a-4c22-95fd-b76a19fbeb1d,Keyboard,Accessories,989.52,2,1979.04,Bank Transfer,USA
+2023-03-24 18:46:57.391304348,4d125e7f-a59c-4c98-926c-bc8f38884479,Keyboard,Accessories,735.91,1,735.91,Bank Transfer,UK
+2023-03-26 00:00:00.000000000,0fa07a3f-2e29-4065-afa2-31e959acdd98,Charger,Accessories,532.59,1,532.59,Bank Transfer,France
+2023-03-27 05:13:02.608695652,98b33c6e-0a14-490a-b795-e98680ee526e,Charger,Accessories,341.95,4,1367.8,Credit Card,USA
+2023-03-28 10:26:05.217391304,642aad48-fcfc-4a81-b306-d70019d5f970,Monitor,Electronics,910.48,4,3641.92,Bank Transfer,Germany
+2023-03-29 15:39:07.826086956,e786ab37-5bca-47be-8298-17c53308fb2e,Smartphone,Electronics,489.5,4,1958.0,Cash,USA
+2023-03-30 20:52:10.434782609,e6fd68e8-d69c-41c2-b860-1602bb4a06cb,Headphones,Accessories,348.38,2,696.76,PayPal,Australia
+2023-04-01 02:05:13.043478261,b29c467d-2b5f-4932-91dc-59efeb21a3f6,Monitor,Electronics,388.06,1,388.06,Credit Card,USA
+2023-04-02 07:18:15.652173913,c470f0e7-f76f-4fb8-b412-fc12ac322c12,Laptop,Electronics,754.87,1,754.87,Cash,USA
+2023-04-03 12:31:18.260869565,28805c5d-ad1b-4f60-89e4-dab20edc6d2b,Smartphone,Electronics,405.93,5,2029.65,Bank Transfer,France
+2023-04-04 17:44:20.869565217,878b9f6b-57a1-4b71-a975-d279d86dbf11,Keyboard,Accessories,792.52,2,1585.04,Cash,USA
+2023-04-05 22:57:23.478260869,ebe21368-98c7-4205-9e01-a934402d0baf,Headphones,Accessories,235.74,3,707.22,PayPal,France
+2023-04-07 04:10:26.086956522,0361524c-2cc0-4859-aa65-24ab713b7e05,Laptop,Electronics,371.35,1,371.35,Credit Card,Canada
+2023-04-08 09:23:28.695652174,e66cd36e-68ef-4f5f-ae68-690a78bc7175,Keyboard,Accessories,757.39,2,1514.78,Credit Card,France
+2023-04-09 14:36:31.304347826,eae2025e-8233-4e23-9ff3-334b91b15f5d,Keyboard,Accessories,271.35,1,271.35,PayPal,Canada
+2023-04-10 19:49:33.913043478,637e0edc-5b6e-4ae7-a620-81434fbaecc0,Laptop,Electronics,122.54,4,490.16,Cash,Germany
+2023-04-12 01:02:36.521739130,27460f22-403d-4f83-a859-890cd670f668,Monitor,Electronics,830.45,1,830.45,Cash,UK
+2023-04-13 06:15:39.130434782,753c7c99-032f-46ca-b0d9-c2aa8f837ef7,Monitor,Electronics,417.79,4,1671.16,Cash,Australia
+2023-04-14 11:28:41.739130435,bd30291a-55fe-408e-943e-2e04bdd7d19b,Headphones,Accessories,836.86,4,3347.44,PayPal,Canada
+2023-04-15 16:41:44.347826086,2284b7a4-47e7-4593-8b58-85ca0bb2c3f0,Monitor,Electronics,932.69,1,932.69,Bank Transfer,Australia
+2023-04-16 21:54:46.956521738,7b59051b-f400-48d7-831d-5a973d792fa1,Mouse,Accessories,901.03,3,2703.09,Credit Card,Canada
+2023-04-18 03:07:49.565217392,ac642b4c-49b2-4ded-9c31-d9b25a2b745b,Laptop,Electronics,876.99,5,4384.95,PayPal,France
+2023-04-19 08:20:52.173913044,e456697c-f268-4baa-971c-702d5bf49c04,Monitor,Electronics,308.49,4,1233.96,Credit Card,USA
+2023-04-20 13:33:54.782608696,21e15094-9efe-4464-9a90-f534a23d4c9d,Monitor,Electronics,871.52,1,871.52,Credit Card,UK
+2023-04-21 18:46:57.391304348,bf9cc545-6355-48f7-8f6f-a985b732d46f,Laptop,Electronics,59.82,1,59.82,Cash,Germany
+2023-04-23 00:00:00.000000000,14aa451c-a69c-4b85-9432-f8db6a174c1c,Charger,Accessories,177.48,2,354.96,Cash,Germany
+2023-04-24 05:13:02.608695652,b2d650af-313b-42b7-9836-31890063e42f,Monitor,Electronics,394.59,5,1972.95,Credit Card,Canada
+2023-04-25 10:26:05.217391304,391cf046-3d4a-4d51-a8fa-fd04559b5975,Smartphone,Electronics,685.0,5,3425.0,Credit Card,Australia
+2023-04-26 15:39:07.826086956,b5d97ef7-60ef-4471-b2b8-ff39a32c9b6f,Keyboard,Accessories,907.67,2,1815.34,Bank Transfer,Canada
+2023-04-27 20:52:10.434782608,dfe1b307-9172-4f0a-ac7c-8803e01bbf50,Monitor,Electronics,429.48,4,1717.92,Cash,Canada
+2023-04-29 02:05:13.043478260,df26f517-66fa-4989-8813-5d586a1689ad,Monitor,Electronics,248.9,1,248.9,Credit Card,Australia
+2023-04-30 07:18:15.652173912,c5adf681-6b10-453a-9145-de05b3ab1b2c,Laptop,Electronics,316.39,5,1581.95,Bank Transfer,Germany
+2023-05-01 12:31:18.260869566,2a69acc7-0bf9-40ef-b581-6b74a985ab61,Smartphone,Electronics,503.64,3,1510.92,Bank Transfer,France
+2023-05-02 17:44:20.869565218,b3969057-425c-4200-905a-da6b720299e3,Keyboard,Accessories,813.84,1,813.84,PayPal,Australia
+2023-05-03 22:57:23.478260870,e28bc9ff-870f-484c-b244-f536285e25b4,Laptop,Electronics,254.17,3,762.51,Credit Card,USA
+2023-05-05 04:10:26.086956522,9a9e4310-8fb8-4bab-a875-4cd37cbd7025,Keyboard,Accessories,429.51,4,1718.04,Credit Card,Australia
+2023-05-06 09:23:28.695652174,09f6048f-e245-4460-8004-884cc167733f,Mouse,Accessories,168.35,3,505.05,Cash,USA
+2023-05-07 14:36:31.304347826,d675ebf7-4fe3-4c9a-9371-0f577e9cf84f,Monitor,Electronics,476.95,4,1907.8,Credit Card,USA
+2023-05-08 19:49:33.913043478,d29dc5df-cf1d-4110-8cc3-6d8c77863fe5,Keyboard,Accessories,782.59,1,782.59,Credit Card,Canada
+2023-05-10 01:02:36.521739130,6a46721a-cffa-4cdd-b963-a7efe00111e5,Monitor,Electronics,150.05,3,450.15,Credit Card,Australia
+2023-05-11 06:15:39.130434782,f689a4a5-ffda-4336-8c6e-90373020da5c,Monitor,Electronics,656.01,2,1312.02,Cash,France
+2023-05-12 11:28:41.739130434,d663049d-155e-48b1-ba83-ada4a2121ac5,Smartphone,Electronics,883.65,5,4418.25,Cash,Canada
+2023-05-13 16:41:44.347826086,03c54c71-fca0-4536-a169-df82b9bdee2d,Mouse,Accessories,935.24,1,935.24,Bank Transfer,UK
+2023-05-14 21:54:46.956521738,6ae04d52-adb3-48cb-b315-8c0c66dd7794,Keyboard,Accessories,803.35,1,803.35,PayPal,USA
+2023-05-16 03:07:49.565217392,03a89879-36a9-4d74-80de-59f550f0fc2b,Charger,Accessories,404.19,3,1212.57,PayPal,France
+2023-05-17 08:20:52.173913044,faf1501b-009a-415b-8137-8be5b7a28e0a,Headphones,Accessories,793.77,1,793.77,Credit Card,USA
+2023-05-18 13:33:54.782608696,9cb017c1-8741-4e91-acfe-bb4bd29e8693,Keyboard,Accessories,270.28,1,270.28,PayPal,UK
+2023-05-19 18:46:57.391304348,9bbd750d-1e70-4c52-b0c1-fb6a19086515,Smartphone,Electronics,780.82,5,3904.1,Cash,Canada
+2023-05-21 00:00:00.000000000,4d6b234f-dfa7-46ed-b2d1-f81ba636425c,Headphones,Accessories,946.58,2,1893.16,Cash,Canada
+2023-05-22 05:13:02.608695652,2ea60b99-fa7f-48bf-b044-284a47acf2f6,Keyboard,Accessories,924.42,1,924.42,Cash,USA
+2023-05-23 10:26:05.217391304,ec3aa314-da9b-4017-b9c1-47c719a5711b,Smartphone,Electronics,426.86,2,853.72,Credit Card,France
+2023-05-24 15:39:07.826086956,0597aab6-14d3-4dbc-a0ac-f4c9658de17e,Keyboard,Accessories,692.69,1,692.69,Cash,Germany
+2023-05-25 20:52:10.434782608,ccc14d51-73f6-40d8-a9f4-1cc04653a560,Mouse,Accessories,267.53,3,802.59,Credit Card,USA
+2023-05-27 02:05:13.043478260,41a93f90-dc82-4527-9da3-b7e2cad6e514,Headphones,Accessories,697.94,3,2093.82,Bank Transfer,UK
+2023-05-28 07:18:15.652173912,d138d150-8557-416a-a750-2a812227d96d,Smartphone,Electronics,833.66,2,1667.32,Bank Transfer,USA
+2023-05-29 12:31:18.260869564,1d77ce40-58d8-4776-a51a-d4f3a699bae0,Monitor,Electronics,895.57,2,1791.14,Credit Card,UK
+2023-05-30 17:44:20.869565218,d9ead926-4745-4d9e-a789-6389df3277fd,Mouse,Accessories,680.28,1,680.28,Credit Card,Germany
+2023-05-31 22:57:23.478260870,34ab18fd-0a68-488e-8ad4-041504c14982,Headphones,Accessories,695.68,5,3478.4,PayPal,UK
+2023-06-02 04:10:26.086956522,50910bdc-8ef0-46d4-8279-b14dae55cdff,Laptop,Electronics,464.97,4,1859.88,Bank Transfer,Australia
+2023-06-03 09:23:28.695652174,914591ae-f03d-466a-9dec-c06af24dfdd8,Headphones,Accessories,147.55,2,295.1,Bank Transfer,Germany
+2023-06-04 14:36:31.304347826,d8ab0b30-0ac0-4f0d-9974-c146e8ec01b3,Keyboard,Accessories,961.69,3,2885.07,Bank Transfer,UK
+2023-06-05 19:49:33.913043478,9b8b71a1-b38a-45fb-b611-64cebfc74ca9,Monitor,Electronics,993.09,1,993.09,Bank Transfer,UK
+2023-06-07 01:02:36.521739130,a4e695c9-b65d-4226-be96-9cf3a7c5cb87,Keyboard,Accessories,899.72,2,1799.44,PayPal,Germany
+2023-06-08 06:15:39.130434782,6f790959-a3e0-4b3b-b56b-0715e7180322,Monitor,Electronics,257.98,2,515.96,Bank Transfer,Germany
+2023-06-09 11:28:41.739130434,2da44da1-89b5-4368-9f14-c6125f58d5b5,Keyboard,Accessories,669.93,2,1339.86,Credit Card,France
+2023-06-10 16:41:44.347826086,4a814d53-964d-4b77-a025-f0ae35354579,Smartphone,Electronics,708.13,2,1416.26,Cash,Germany
+2023-06-11 21:54:46.956521738,4578bab3-26a9-4465-a371-ea2c0247145f,Monitor,Electronics,428.41,2,856.82,Cash,Germany
+2023-06-13 03:07:49.565217392,5e00ea6d-ca24-4e4d-9667-2017555a4085,Mouse,Accessories,367.47,2,734.94,Cash,Australia
+2023-06-14 08:20:52.173913044,c787ddfb-5697-417c-97fd-3736b7ef941c,Headphones,Accessories,644.3,5,3221.5,Credit Card,France
+2023-06-15 13:33:54.782608696,4505f4f6-0a8c-46c7-8921-5f4f9edb95f2,Keyboard,Accessories,28.26,3,84.78,Cash,UK
+2023-06-16 18:46:57.391304348,955d0e77-fb5e-4866-a640-211e29f2c3c7,Headphones,Accessories,307.45,4,1229.8,Credit Card,UK
+2023-06-18 00:00:00.000000000,fd42f697-6511-4656-9c64-60364a1eb1b7,Charger,Accessories,126.44,1,126.44,PayPal,Australia
+2023-06-19 05:13:02.608695652,1d69d9fc-4b1c-48bd-a130-260c8c69778f,Keyboard,Accessories,929.7,2,1859.4,Cash,France
+2023-06-20 10:26:05.217391304,ef0a81ed-3d5d-40bc-bb03-78eb7a62722e,Laptop,Electronics,263.0,4,1052.0,Bank Transfer,Canada
+2023-06-21 15:39:07.826086956,db66bfda-2df9-4747-8ed1-35530c5a876f,Laptop,Electronics,368.26,1,368.26,Cash,UK
+2023-06-22 20:52:10.434782608,4d7bd307-1224-41e6-ba89-82dd85e69ea9,Headphones,Accessories,21.81,4,87.24,Cash,USA
+2023-06-24 02:05:13.043478260,4c9a0ae1-5419-4efc-95e7-3e3f673617d9,Laptop,Electronics,312.59,3,937.77,PayPal,France
+2023-06-25 07:18:15.652173912,8f928dc5-1972-4ce3-9bd0-94486a2b3200,Mouse,Accessories,756.33,1,756.33,Cash,UK
+2023-06-26 12:31:18.260869564,564ae909-7958-4e69-bb2e-1b82e89dc815,Monitor,Electronics,766.76,3,2300.28,Credit Card,USA
+2023-06-27 17:44:20.869565218,cff4c56b-f9ea-4c64-8c41-7e7cd741d609,Headphones,Accessories,886.04,1,886.04,Credit Card,Germany
+2023-06-28 22:57:23.478260870,1db2b452-7aa5-4a18-9fd3-c01757f98d1e,Keyboard,Accessories,535.58,5,2677.9,Cash,France
+2023-06-30 04:10:26.086956522,09aedbd0-6d31-4b4a-bf6b-8793b318ad4c,Smartphone,Electronics,751.62,3,2254.86,Bank Transfer,Australia
+2023-07-01 09:23:28.695652174,afe6790a-bc18-440b-95c7-ed9d4d4985dc,Laptop,Electronics,603.5,1,603.5,Credit Card,Germany
+2023-07-02 14:36:31.304347826,2aa36cf7-eb70-4a65-a7d9-9a23e4f7625e,Headphones,Accessories,542.97,1,542.97,PayPal,UK
+2023-07-03 19:49:33.913043478,ce5dc807-6025-4199-9082-3edaa0722aa0,Smartphone,Electronics,426.53,3,1279.59,Bank Transfer,Canada
+2023-07-05 01:02:36.521739130,16408169-a38d-4afc-bdd2-ed7af97ccc57,Laptop,Electronics,582.5,2,1165.0,Credit Card,France
+2023-07-06 06:15:39.130434782,32b2c492-15ac-47a1-8eca-2ee310da8a95,Mouse,Accessories,552.7,3,1658.1,Bank Transfer,France
+2023-07-07 11:28:41.739130434,62830869-0fa7-4e05-b897-4df5bff773ce,Headphones,Accessories,576.87,2,1153.74,PayPal,USA
+2023-07-08 16:41:44.347826086,8e751eb7-64d0-4913-991b-8adf0202861c,Mouse,Accessories,138.11,4,552.44,Cash,UK
+2023-07-09 21:54:46.956521738,eb8f2056-72d3-4c5d-8a31-b24384dd6da6,Monitor,Electronics,674.89,3,2024.67,Cash,Australia
+2023-07-11 03:07:49.565217390,b6e355f6-95bb-440d-89cd-4af97d161f29,Keyboard,Accessories,233.65,4,934.6,Bank Transfer,France
+2023-07-12 08:20:52.173913044,156af458-6c4c-4935-b79d-eda1ade6c5e9,Mouse,Accessories,959.25,4,3837.0,Bank Transfer,UK
+2023-07-13 13:33:54.782608696,ffc573d5-fd0b-470e-b85a-f4635e4af862,Mouse,Accessories,505.61,5,2528.05,PayPal,USA
+2023-07-14 18:46:57.391304348,2aa50f4e-c6f0-4933-95d1-805142cb6d1d,Headphones,Accessories,482.1,1,482.1,Credit Card,Australia
+2023-07-16 00:00:00.000000000,1d7173e5-5bc7-4deb-b123-4efe6e648043,Charger,Accessories,99.75,4,399.0,Credit Card,Germany
+2023-07-17 05:13:02.608695652,da54f267-dd13-4266-926d-53961058fe8c,Smartphone,Electronics,133.83,1,133.83,Bank Transfer,Australia
+2023-07-18 10:26:05.217391304,869bdbd2-e72b-45b7-8712-0911b3b68b57,Mouse,Accessories,306.68,2,613.36,PayPal,Canada
+2023-07-19 15:39:07.826086956,33a1d1c2-ad4a-4155-809f-cd8f739cd488,Headphones,Accessories,207.38,4,829.52,Cash,Australia
+2023-07-20 20:52:10.434782608,41a8a6e1-65e0-4993-bf41-1fed1e70e799,Headphones,Accessories,396.45,3,1189.35,Cash,Australia
+2023-07-22 02:05:13.043478260,ff3e0ba1-0ac7-48b4-a418-65bf350d278d,Mouse,Accessories,446.56,4,1786.24,PayPal,Canada
+2023-07-23 07:18:15.652173912,9f982188-3744-4a64-8c24-9558f2ad985f,Headphones,Accessories,146.64,2,293.28,Cash,Germany
+2023-07-24 12:31:18.260869564,755a3ac1-32ae-4a20-9ac9-02ee25777cf0,Charger,Accessories,983.81,4,3935.24,Cash,France
+2023-07-25 17:44:20.869565218,d3b564b0-8be0-4c3e-9c94-938160c6b3ed,Mouse,Accessories,235.76,2,471.52,Cash,UK
+2023-07-26 22:57:23.478260870,98a33736-fd1a-47ce-9ad0-a6f226bdd974,Monitor,Electronics,715.8,4,2863.2,Credit Card,UK
+2023-07-28 04:10:26.086956522,905c053b-25fd-4cbe-bce7-1b48fba52e59,Mouse,Accessories,102.96,2,205.92,Bank Transfer,USA
+2023-07-29 09:23:28.695652172,6c596216-ae0f-4bc8-a36b-cb0167e98363,Mouse,Accessories,645.31,2,1290.62,PayPal,Canada
+2023-07-30 14:36:31.304347824,ade7cef3-7ed2-4c2f-856f-3d95e0ae1a1b,Headphones,Accessories,620.26,5,3101.3,Bank Transfer,Germany
+2023-07-31 19:49:33.913043476,d5627386-528c-4241-a345-ac72eac39204,Keyboard,Accessories,469.13,5,2345.65,Cash,Canada
+2023-08-02 01:02:36.521739132,a2939b3b-7fa7-4d8a-bf88-ec827f99d273,Keyboard,Accessories,500.4,4,2001.6,PayPal,Germany
+2023-08-03 06:15:39.130434784,8af58903-33b5-43ce-9fec-4623ab899605,Headphones,Accessories,61.39,1,61.39,PayPal,Germany
+2023-08-04 11:28:41.739130436,027c013f-3801-4399-ae6a-8e2f9c19ed34,Smartphone,Electronics,304.01,1,304.01,PayPal,USA
+2023-08-05 16:41:44.347826088,bf3df0bb-f66a-4168-b4a1-ca795718ada2,Charger,Accessories,439.19,2,878.38,Cash,Canada
+2023-08-06 21:54:46.956521740,52631db9-d170-44ce-9179-7350e6256403,Laptop,Electronics,464.63,3,1393.89,Credit Card,Canada
+2023-08-08 03:07:49.565217392,dfde2281-25fb-4f3d-866d-7002091472ad,Smartphone,Electronics,798.89,3,2396.67,Cash,Germany
+2023-08-09 08:20:52.173913044,27e969e2-c8bf-43fb-9a43-1f7a41c30359,Headphones,Accessories,48.25,1,48.25,PayPal,Germany
+2023-08-10 13:33:54.782608696,4b5ca436-953c-478e-a106-7a8cd7a3283c,Smartphone,Electronics,225.4,5,1127.0,Bank Transfer,UK
+2023-08-11 18:46:57.391304348,786e30ef-ce9b-4e70-b4d4-dfccb7d779cc,Charger,Accessories,217.59,3,652.77,Bank Transfer,Canada
+2023-08-13 00:00:00.000000000,843b2a7d-15ab-4c21-8cc9-3ff710fce97d,Charger,Accessories,396.98,4,1587.92,Bank Transfer,Australia
+2023-08-14 05:13:02.608695652,10fc9eee-0a17-47f7-aa5f-24b6de6fec4b,Laptop,Electronics,63.61,5,318.05,Credit Card,USA
+2023-08-15 10:26:05.217391304,4cea2df0-0a66-4c4e-a168-1081399f8a8f,Keyboard,Accessories,505.39,4,2021.56,Credit Card,France
+2023-08-16 15:39:07.826086956,72d6bc20-d80d-4a1c-8247-2fd603e9ba02,Keyboard,Accessories,471.3,1,471.3,Credit Card,USA
+2023-08-17 20:52:10.434782608,ccf719ab-2922-4bd8-9ca5-b35354a1d505,Laptop,Electronics,116.76,2,233.52,Cash,UK
+2023-08-19 02:05:13.043478260,75f2bc20-a7f5-495c-9e62-d43f261908b9,Keyboard,Accessories,620.5,4,2482.0,Cash,USA
+2023-08-20 07:18:15.652173912,61d9fe39-8147-48f4-9f0e-f320f7f60e7f,Laptop,Electronics,264.73,2,529.46,PayPal,Germany
+2023-08-21 12:31:18.260869564,089b30a0-809f-4923-87a1-798fe6addd9e,Headphones,Accessories,333.21,4,1332.84,Credit Card,Canada
+2023-08-22 17:44:20.869565216,cb4d18d6-adb6-4a35-9734-a26c92e94e89,Headphones,Accessories,617.88,2,1235.76,Bank Transfer,France
+2023-08-23 22:57:23.478260868,99a2ecb1-c202-487b-849b-8a44ce1bb02a,Monitor,Electronics,612.58,5,3062.9,Bank Transfer,Germany
+2023-08-25 04:10:26.086956520,6d265dd8-bf39-4fbb-938c-3460fd938adc,Laptop,Electronics,36.23,5,181.15,Credit Card,UK
+2023-08-26 09:23:28.695652172,4a276dda-34c3-494a-812e-a9b8e7e13ed8,Mouse,Accessories,426.37,2,852.74,Bank Transfer,Australia
+2023-08-27 14:36:31.304347824,6af79ad2-993e-48c6-a6b1-06e289110af0,Mouse,Accessories,26.31,5,131.55,Cash,USA
+2023-08-28 19:49:33.913043476,d872298c-7b72-490b-b8f8-f071d360da69,Smartphone,Electronics,397.0,3,1191.0,Credit Card,Australia
+2023-08-30 01:02:36.521739132,9b8086da-6379-4035-b8e4-5086ca819c6f,Monitor,Electronics,371.73,5,1858.65,Bank Transfer,UK
+2023-08-31 06:15:39.130434784,dd620222-d9ef-428b-bbcb-50b3961d8dcf,Mouse,Accessories,835.16,2,1670.32,Credit Card,Canada
+2023-09-01 11:28:41.739130436,e2a01335-a830-43ab-853e-4b42cc4da021,Headphones,Accessories,681.15,2,1362.3,Bank Transfer,Australia
+2023-09-02 16:41:44.347826088,4d6cd782-2e95-43ea-bda1-7da2000fc63d,Keyboard,Accessories,301.09,2,602.18,PayPal,USA
+2023-09-03 21:54:46.956521740,552ae5ca-4124-405b-91fc-fe8881c16e98,Monitor,Electronics,514.75,3,1544.25,Credit Card,UK
+2023-09-05 03:07:49.565217392,4312ece2-dc21-41e1-be56-ac3d10cc8711,Keyboard,Accessories,172.14,2,344.28,Credit Card,UK
+2023-09-06 08:20:52.173913044,c5c14262-4d84-4ec5-9334-886ff164f9d8,Charger,Accessories,222.37,4,889.48,PayPal,UK
+2023-09-07 13:33:54.782608696,6238d0a0-cf5e-4ea3-a258-4ab368777bab,Mouse,Accessories,149.49,2,298.98,Cash,Germany
+2023-09-08 18:46:57.391304348,ef7e85ec-a417-456f-a9ee-7f3d0ff030b8,Monitor,Electronics,599.21,4,2396.84,Credit Card,Canada
+2023-09-10 00:00:00.000000000,babd4745-497e-4f1a-bd2b-f042209818d1,Charger,Accessories,45.49,5,227.45,Bank Transfer,France
+2023-09-11 05:13:02.608695652,f11ddff7-0e37-4526-9582-a3bdd476fe38,Keyboard,Accessories,322.53,2,645.06,PayPal,Australia
+2023-09-12 10:26:05.217391304,2412579d-6af9-44e0-bb38-785b0932f5b6,Keyboard,Accessories,813.05,4,3252.2,Bank Transfer,Australia
+2023-09-13 15:39:07.826086956,9a1a7d6f-dd02-4100-a3d4-84087de8a234,Charger,Accessories,97.2,2,194.4,Cash,Australia
+2023-09-14 20:52:10.434782608,b2ddc481-ac6d-4df8-94e5-064cb799ae8e,Laptop,Electronics,825.26,3,2475.78,Cash,USA
+2023-09-16 02:05:13.043478260,5a4f4145-fc98-4279-8f6f-111c26c06e67,Laptop,Electronics,57.52,2,115.04,Bank Transfer,France
+2023-09-17 07:18:15.652173912,775e0ec3-9c9d-43f3-8901-8aee69407be7,Mouse,Accessories,731.28,2,1462.56,Bank Transfer,Germany
+2023-09-18 12:31:18.260869564,19faa06e-0c0a-4967-b579-501a62fda854,Mouse,Accessories,179.09,1,179.09,Bank Transfer,Canada
+2023-09-19 17:44:20.869565216,052daad3-26c0-4984-8734-bb05788c31f6,Monitor,Electronics,77.02,2,154.04,Bank Transfer,USA
+2023-09-20 22:57:23.478260868,21f8c156-9e0d-445b-992a-34a1084fa819,Keyboard,Accessories,635.27,1,635.27,PayPal,USA
+2023-09-22 04:10:26.086956520,b3386c3e-1af4-487f-92eb-dac5a1457899,Smartphone,Electronics,241.26,3,723.78,Credit Card,USA
+2023-09-23 09:23:28.695652172,31e9ca80-58bf-4b9e-a624-5b598c94af98,Headphones,Accessories,972.65,4,3890.6,PayPal,UK
+2023-09-24 14:36:31.304347824,c707aef9-c6c3-444c-888e-03b662276cbc,Keyboard,Accessories,446.51,3,1339.53,Bank Transfer,UK
+2023-09-25 19:49:33.913043476,0f66b32d-e19b-4837-9c6a-4b5e7d859725,Mouse,Accessories,342.24,4,1368.96,Cash,USA
+2023-09-27 01:02:36.521739128,9d44c93e-7799-48e2-b368-c5539c30ceaa,Keyboard,Accessories,893.11,5,4465.55,Cash,USA
+2023-09-28 06:15:39.130434784,a6855857-567e-4862-af15-1673a1df3da7,Monitor,Electronics,923.08,4,3692.32,Cash,UK
+2023-09-29 11:28:41.739130436,b6af98b2-aeba-42d0-b830-32491fd3af07,Smartphone,Electronics,510.54,5,2552.7,PayPal,USA
+2023-09-30 16:41:44.347826088,d960af85-c9df-4e44-8bdf-fa7d9f3dd894,Headphones,Accessories,252.63,2,505.26,PayPal,USA
+2023-10-01 21:54:46.956521740,633cbf79-e96a-41af-b55e-3aa2208a393e,Charger,Accessories,898.4,5,4492.0,PayPal,Australia
+2023-10-03 03:07:49.565217392,beebb4ea-eab9-421b-8b36-b545cca1a034,Smartphone,Electronics,438.63,5,2193.15,Credit Card,Canada
+2023-10-04 08:20:52.173913044,fbbff9e0-ae56-402a-b521-ca9fdf5e6f78,Mouse,Accessories,468.36,2,936.72,Credit Card,Germany
+2023-10-05 13:33:54.782608696,dc45488d-84dd-49b9-9f1e-0ee9cf6c9992,Headphones,Accessories,809.78,4,3239.12,Credit Card,Australia
+2023-10-06 18:46:57.391304348,09c67417-306a-4871-beef-71cbc915d113,Smartphone,Electronics,506.42,3,1519.26,Bank Transfer,Australia
+2023-10-08 00:00:00.000000000,5f1ff97c-71cf-4814-a45b-d776c838a145,Laptop,Electronics,468.95,5,2344.75,Bank Transfer,UK
+2023-10-09 05:13:02.608695652,5b471c43-7499-428c-b0c3-2323c1b199c4,Mouse,Accessories,757.92,3,2273.76,Bank Transfer,France
+2023-10-10 10:26:05.217391304,f4dd05d5-1349-447a-a1cb-a182ca20854d,Keyboard,Accessories,34.49,5,172.45,Bank Transfer,Canada
+2023-10-11 15:39:07.826086956,0a3c2c6f-ef2d-4a38-a6e4-b8df0b6d9611,Keyboard,Accessories,977.78,5,4888.9,Bank Transfer,Australia
+2023-10-12 20:52:10.434782608,06d2ed7c-e6ac-4d8a-8160-ff927c7550f2,Smartphone,Electronics,466.8,1,466.8,Cash,Germany
+2023-10-14 02:05:13.043478260,91bacf80-aaa0-4996-8522-dc4ef1dd50bf,Keyboard,Accessories,70.13,3,210.39,Credit Card,Germany
+2023-10-15 07:18:15.652173912,3acaaf82-374a-4cc9-a039-7e67926146de,Mouse,Accessories,686.79,3,2060.37,PayPal,Canada
+2023-10-16 12:31:18.260869564,e27ac8e9-d1c3-41bc-86be-643217ee0eb0,Monitor,Electronics,353.47,3,1060.41,PayPal,USA
+2023-10-17 17:44:20.869565216,809e2109-c786-4a38-a09f-1aede38690e7,Monitor,Electronics,982.09,2,1964.18,Bank Transfer,UK
+2023-10-18 22:57:23.478260868,81d1bf06-6b8c-46f2-8611-f583b2d10e3d,Charger,Accessories,901.46,3,2704.38,Credit Card,Canada
+2023-10-20 04:10:26.086956520,254bf7ae-1d0a-4994-b20b-575d4e28e674,Charger,Accessories,70.23,2,140.46,Bank Transfer,Germany
+2023-10-21 09:23:28.695652172,6c0be55c-90e6-49e1-a44f-c3a96d0c62c3,Headphones,Accessories,633.2,3,1899.6,Cash,France
+2023-10-22 14:36:31.304347824,1ad1daaa-ef8d-4ff0-9583-1feeec41e6f6,Monitor,Electronics,442.39,2,884.78,Credit Card,UK
+2023-10-23 19:49:33.913043476,6a480542-1965-4435-901b-b5fa6a677623,Monitor,Electronics,62.73,2,125.46,Bank Transfer,USA
+2023-10-25 01:02:36.521739128,f45da406-bbf9-4b01-a7f9-e728c618fc1e,Mouse,Accessories,490.8,3,1472.4,PayPal,USA
+2023-10-26 06:15:39.130434784,6e5bac20-725c-4675-8a95-71e407dc02b1,Monitor,Electronics,937.36,3,2812.08,PayPal,Canada
+2023-10-27 11:28:41.739130436,7f22cd12-07b6-408e-aac1-ca75afb918c8,Laptop,Electronics,82.02,2,164.04,Credit Card,Canada
+2023-10-28 16:41:44.347826088,53125ffd-f655-460b-9d32-e231eb561699,Mouse,Accessories,800.73,5,4003.65,Cash,France
+2023-10-29 21:54:46.956521740,5a3da367-141b-4a1b-80a9-78bfb8f8903b,Headphones,Accessories,325.17,1,325.17,Cash,Australia
+2023-10-31 03:07:49.565217392,b1182d23-5bf8-4676-9f12-a0e912011caa,Headphones,Accessories,947.33,5,4736.65,Bank Transfer,Germany
+2023-11-01 08:20:52.173913044,2d8b5b41-590e-43da-986f-1721078548d7,Laptop,Electronics,711.46,4,2845.84,PayPal,USA
+2023-11-02 13:33:54.782608696,3b019fcb-f96d-4403-948c-93f3028d042b,Charger,Accessories,521.11,5,2605.55,Cash,Germany
+2023-11-03 18:46:57.391304348,98ba0f0e-120d-4126-9da5-3b38d1aa6c5e,Keyboard,Accessories,950.53,5,4752.65,Cash,Australia
+2023-11-05 00:00:00.000000000,00d3d1af-353e-4c86-a4ae-ba79e4b82987,Monitor,Electronics,802.51,2,1605.02,Credit Card,Germany
+2023-11-06 05:13:02.608695652,bb6b0095-ac7b-4ab2-a8b5-6f85346d2b7e,Monitor,Electronics,981.92,2,1963.84,PayPal,Australia
+2023-11-07 10:26:05.217391304,bf7b68ae-1f89-41b6-a6a1-a40bf031f4b9,Headphones,Accessories,635.26,4,2541.04,Credit Card,Australia
+2023-11-08 15:39:07.826086956,b080e003-5e7f-403c-8b13-47f601d6d903,Mouse,Accessories,264.21,2,528.42,Bank Transfer,UK
+2023-11-09 20:52:10.434782608,3b9cea95-9ad7-458f-aecb-325b064f768d,Charger,Accessories,927.97,1,927.97,Cash,UK
+2023-11-11 02:05:13.043478260,743c7e9d-2fde-4035-a452-bc39dbf2eed1,Mouse,Accessories,719.54,5,3597.7,Credit Card,UK
+2023-11-12 07:18:15.652173912,b51d70d8-582d-4972-ba08-9ca81cc5a8a0,Laptop,Electronics,451.69,1,451.69,Cash,Australia
+2023-11-13 12:31:18.260869564,0726d44a-2152-43c7-821a-a15ef58c43ce,Keyboard,Accessories,941.58,3,2824.74,Cash,Germany
+2023-11-14 17:44:20.869565216,55c36c3d-5cbb-4080-b547-5c5ef76dce6e,Monitor,Electronics,341.21,3,1023.63,Credit Card,France
+2023-11-15 22:57:23.478260868,4bdd5f99-4ae9-4e11-b5fe-0213792ecd75,Smartphone,Electronics,767.28,2,1534.56,Cash,France
+2023-11-17 04:10:26.086956520,8d9ecfb9-f549-4e22-a0df-7f74efe78b60,Keyboard,Accessories,779.94,4,3119.76,Credit Card,Canada
+2023-11-18 09:23:28.695652172,97d01e70-2f1d-4bef-93b5-3b92a2cb5f38,Keyboard,Accessories,367.49,5,1837.45,PayPal,Canada
+2023-11-19 14:36:31.304347824,88819f42-1a42-4629-94af-e646fe3216bd,Mouse,Accessories,292.78,1,292.78,Cash,France
+2023-11-20 19:49:33.913043476,606821d6-280a-47ee-8ec9-85ff94b28b9d,Monitor,Electronics,152.63,1,152.63,Bank Transfer,Germany
+2023-11-22 01:02:36.521739128,200f7753-f217-4aac-a59c-ff81e5ce0ca6,Smartphone,Electronics,87.99,1,87.99,Cash,USA
+2023-11-23 06:15:39.130434784,82221345-50de-4292-b90a-9016cdec85da,Headphones,Accessories,929.57,1,929.57,Bank Transfer,France
+2023-11-24 11:28:41.739130436,2f16fb50-c13e-46af-bc95-90d33e2aad3e,Laptop,Electronics,984.63,3,2953.89,Cash,Australia
+2023-11-25 16:41:44.347826088,a9c72e7b-6b77-4df1-9f59-aa2c4a82e06a,Laptop,Electronics,603.75,4,2415.0,Bank Transfer,Canada
+2023-11-26 21:54:46.956521740,99e8c828-21da-432c-9c68-d4fd0bd7696f,Smartphone,Electronics,179.65,2,359.3,Cash,Australia
+2023-11-28 03:07:49.565217392,b3c161c3-13f2-437c-a4d0-27590542bd75,Mouse,Accessories,721.95,1,721.95,Credit Card,Canada
+2023-11-29 08:20:52.173913044,4ca49aaf-6b94-4e09-a1cc-14b312bdf75f,Mouse,Accessories,749.26,4,2997.04,PayPal,Germany
+2023-11-30 13:33:54.782608696,ed28508d-bdaa-4bfa-aab0-15638cffbbb1,Charger,Accessories,594.17,1,594.17,Credit Card,Canada
+2023-12-01 18:46:57.391304348,4c4b91fe-6c14-4fc6-9750-ca7e246cb09c,Laptop,Electronics,817.03,2,1634.06,Bank Transfer,Germany
+2023-12-03 00:00:00.000000000,3f80c31f-15a5-412c-9ac4-b6c7a31034dd,Mouse,Accessories,714.5,3,2143.5,Cash,UK
+2023-12-04 05:13:02.608695652,a3155940-5e87-405a-a1fd-cdf171df24d9,Charger,Accessories,902.16,5,4510.8,PayPal,USA
+2023-12-05 10:26:05.217391304,605dd4d6-0ecf-495b-877a-2133f2ed33e1,Mouse,Accessories,593.79,5,2968.95,Credit Card,Germany
+2023-12-06 15:39:07.826086956,f642c8f3-6acf-49eb-8228-4fd9689bba65,Charger,Accessories,947.81,2,1895.62,Cash,Canada
+2023-12-07 20:52:10.434782608,70f8dd99-5217-4eb7-a6b9-20daba6a098f,Laptop,Electronics,816.02,5,4080.1,PayPal,Australia
+2023-12-09 02:05:13.043478260,f3cc9d8a-4b16-48e4-9f20-f4063438b4e4,Headphones,Accessories,914.42,2,1828.84,Cash,Canada
+2023-12-10 07:18:15.652173912,2f7a304f-f344-4911-974f-7a54788c161e,Smartphone,Electronics,552.57,5,2762.85,Bank Transfer,USA
+2023-12-11 12:31:18.260869564,1cb66f67-46e7-45ad-9bce-35d8cbe88a3f,Charger,Accessories,779.37,1,779.37,Cash,Canada
+2023-12-12 17:44:20.869565216,27649a62-b02d-452c-9b05-0db28ee4fd02,Headphones,Accessories,578.87,3,1736.61,Cash,Canada
+2023-12-13 22:57:23.478260868,eda2fc4c-7237-4420-b3dd-77e1cbb02fe9,Headphones,Accessories,987.5,1,987.5,PayPal,Germany
+2023-12-15 04:10:26.086956520,6bf4d047-c484-4a8d-af75-1bde66163e5b,Smartphone,Electronics,198.95,2,397.9,Credit Card,Germany
+2023-12-16 09:23:28.695652172,f5a3e893-3f7a-4748-acbb-93c26e84f8ea,Monitor,Electronics,209.48,4,837.92,Credit Card,Australia
+2023-12-17 14:36:31.304347824,85fa2d5c-efe6-471b-9723-a95974151acc,Headphones,Accessories,800.83,1,800.83,PayPal,Germany
+2023-12-18 19:49:33.913043476,a1ab17c0-7662-49cc-9af9-5c78247f4d97,Charger,Accessories,928.32,4,3713.28,Credit Card,France
+2023-12-20 01:02:36.521739128,c149fa8e-7bb8-42f1-9624-d318a32652e8,Headphones,Accessories,612.06,5,3060.3,Bank Transfer,Australia
+2023-12-21 06:15:39.130434784,d4864482-0078-4b12-8b73-50d13421beaf,Headphones,Accessories,571.48,4,2285.92,Cash,UK
+2023-12-22 11:28:41.739130436,764657ca-9e65-436c-b2f7-74b1b2f11ef9,Smartphone,Electronics,464.65,3,1393.95,PayPal,France
+2023-12-23 16:41:44.347826088,1d4d1180-4c6e-4fbb-b7fe-f6b501fda698,Smartphone,Electronics,370.46,1,370.46,Credit Card,Germany
+2023-12-24 21:54:46.956521740,4d18c103-a100-4d14-ba92-cd28c4c536fb,Smartphone,Electronics,193.55,5,967.75,Credit Card,Germany
+2023-12-26 03:07:49.565217392,6c98f73d-27fe-4b4b-9bf1-f1d18b92c247,Keyboard,Accessories,794.94,4,3179.76,Cash,USA
+2023-12-27 08:20:52.173913044,17b18e6e-78af-458e-8058-a332b4cfafa8,Charger,Accessories,70.69,4,282.76,Bank Transfer,USA
+2023-12-28 13:33:54.782608696,f5feba5e-c295-4f51-bf67-ee1aad9d1f42,Mouse,Accessories,525.55,1,525.55,Bank Transfer,Germany
+2023-12-29 18:46:57.391304348,67c21355-c312-4af6-8b32-992a3b7c1f9a,Smartphone,Electronics,481.95,1,481.95,PayPal,Canada
+2023-12-31 00:00:00.000000000,0588d91d-fbe8-4a8e-a1cf-0d1d47b3df41,Mouse,Accessories,808.65,1,808.65,Credit Card,France
